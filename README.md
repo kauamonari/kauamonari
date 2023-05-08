@@ -1,16 +1,34 @@
-### Hi there 👋
+# Olá!! Eu sou o Kauã Vasconcelos!
 
-<!--
-**kauamonari/kauamonari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<details>
+  <summary>Mais sobre mim 👱🏻‍♂️</summary>
+  
+- 🎓 Estou cursando Análise e Desenvolvimento de Sistemas
+  
+- 💻 Aprendendo: HTML5, CSS3 E JAVASCRIPT
+  
+- 👨‍💻 Minha paixão é estudar e aprender novos conceitos e tecnologias
+  
+- 📫 Meu e-mail: kauamonari014@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</details>
+
+<div style="display: inline_block"><br>
+  Linguagens que eu estudo atualmente:
+  <br>
+  <br>
+  <img  align="center" alt="Alencar-HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Alencar-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Alencar-JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+</div>
+
+<br>
+
+<div>
+<a href="https://github.com/GasparKaua">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GasparKaua&layout=compact&langs_count=7&theme=dracula"/>
+ <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GasparKaua&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+
