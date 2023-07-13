@@ -5,6 +5,8 @@
   <summary>Mais sobre mim 👱🏻‍♂️</summary>
   
 - 🎓 Estou cursando Análise e Desenvolvimento de Sistemas
+
+-    Frameworks: Tailwind
   
 - 💻 Aprendendo: HTML5, CSS3 E JAVASCRIPT
   
